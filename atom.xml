@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Cassie's Blog]]></title>
+  <link href="http://cassieword.github.io/atom.xml" rel="self"/>
+  <link href="http://cassieword.github.io/"/>
+  <updated>2013-08-18T00:05:00+08:00</updated>
+  <id>http://cassieword.github.io/</id>
+  <author>
+    <name><![CDATA[Cassie]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[许久之后的第一篇博客]]></title>
+    <link href="http://cassieword.github.io/blog/2013/08/17/xu-jiu-zhi-hou-de-di-%5B%3F%5D-pian-bo-ke-ke/"/>
+    <updated>2013-08-17T23:55:00+08:00</updated>
+    <id>http://cassieword.github.io/blog/2013/08/17/xu-jiu-zhi-hou-de-di-[?]-pian-bo-ke-ke</id>
+    <content type="html"><![CDATA[<h4>8月18日</h4>
+
+<p>折腾了很久的博客，最终还是在大猴的帮助下才算搭建成功。好多地方都迷迷糊糊。</p>
+]]></content>
+  </entry>
+  
+</feed>
