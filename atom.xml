@@ -4,7 +4,7 @@
   <title><![CDATA[Cassie's Blog]]></title>
   <link href="http://cassieword.github.io/atom.xml" rel="self"/>
   <link href="http://cassieword.github.io/"/>
-  <updated>2013-08-18T00:18:33+08:00</updated>
+  <updated>2013-08-18T17:46:19+08:00</updated>
   <id>http://cassieword.github.io/</id>
   <author>
     <name><![CDATA[Cassie]]></name>
@@ -19,6 +19,8 @@
     <updated>2013-08-18T00:16:00+08:00</updated>
     <id>http://cassieword.github.io/blog/2013/08/18/ce-shi</id>
     <content type="html"><![CDATA[<p>巴拉巴拉，测试</p>
+
+<p><img src="http://cassieword.github.io/images/0.jpg" alt="icon" /></p>
 ]]></content>
   </entry>
   
